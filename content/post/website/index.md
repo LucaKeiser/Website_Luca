@@ -20,7 +20,7 @@ tags:
 title: Every academic should have a website, and here is why
 ---
 
-As recently as less than a decade ago, one in three academics in the UK were hermits — there was no meaningful information about them on the internet.
+As recently as less than a decade ago, [one in three academics in the UK were hermits](https://blogs.lse.ac.uk/writingforresearch/2014/03/01/are-you-an-academic-hermit/) — there was no meaningful information about them on the internet.
 
 If this figure has improved over the years, that would largely be through institutional websites. Indeed, by now, almost all universities have dedicated pages on their academic staff.
 
