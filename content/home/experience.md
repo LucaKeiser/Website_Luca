@@ -36,14 +36,23 @@ experience:
     #     * Modelling
     #     * Deploying
         
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Assistant Professor of Politics
+    company: University of Emmen
     company_url: ''
-    company_logo: org-x
-    location: California
+    company_logo: Universität_Luzern
+    location: Luzern
     date_start: '2016-01-01'
     date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    #description: Taught electronic engineering and researched semiconductor physics.
+    
+  - title: Postdoctoral Researcher
+    company: University of Meggen
+    company_url: ''
+    company_logo: Universität_Luzern
+    location: Luzern
+    date_start: '2015-01-01'
+    date_end: '2015-12-31'
+    #description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'

@@ -1,5 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
+bio: I am an associate professor of politics at the University of Kriens. I specialise in party politics. My work has featured in leading media outlets as well as in academic journals.
   matter.
 education:
   courses:
@@ -42,11 +42,11 @@ social:
   icon_pack: fab
   link: https://www.linkedin.com/
 superuser: true
-title: Nelson Bighetti
+title: Jane J. Doe
 ---
 
 I am an associate professor of politics at the University of Kriens. I specialise in party politics. My work has featured in leading media outlets as well as in academic journals.
 
 Before joining the University of Kriens, I was an assistant professor at the University of Emmen, and a post-doctoral researcher at the University of Meggen.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/jjd_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
